@@ -1,0 +1,20 @@
+.bridge-error {
+	background: #d54d21;
+	color: #ffffff;
+	padding: 1em;
+	margin: 1em 0;
+}
+.bridge-installation {
+	border: 2px #ccc solid;
+	padding: 1em;
+	margin: 1em 0;
+}
+.success {
+	color: #00ff00;
+}
+.failure {
+	color: #ff0000;
+}
+.success, .failure {
+	font-weight: bold;
+}
